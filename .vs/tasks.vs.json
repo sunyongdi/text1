@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-scatter_suares",
+      "appliesTo": "scatter_suares.py",
+      "type": "launch"
+    }
+  ]
+}
